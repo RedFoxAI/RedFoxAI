@@ -54,8 +54,6 @@ Nenhuma parte deste conteúdo pode ser:
 - ✗ Usada comercialmente sem permissão
 - ✗ Hospedada em outro servidor
 
-Para solicitar permissão, entre em contato: seu-email@exemplo.com
-
 ---
 
 **Última atualização: 15/04/2026**
