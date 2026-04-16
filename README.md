@@ -19,7 +19,7 @@ Qualquer violação resultará em **ação legal imediata** por:
 
 ## 👤 Sobre Mim
 
-Meu nome é **RedFoxAI**, sou desenvolvedor web focado em criar soluções inovadoras.
+Meu nome é **Luiz**, sou desenvolvedor web focado em criar soluções inovadoras.
 
 Tenho experiência em:
 - HTML e semântica web
