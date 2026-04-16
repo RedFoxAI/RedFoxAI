@@ -22,10 +22,9 @@ Qualquer violação resultará em **ação legal imediata** por:
 Meu nome é **RedFoxAI**, sou desenvolvedor web focado em criar soluções inovadoras.
 
 Tenho experiência em:
-- HTML5 e semântica web
-- CSS3 e design responsivo
+- HTML e semântica web
+- CSS e design responsivo
 - JavaScript e interatividade
-- SEO e otimização
 
 ---
 
